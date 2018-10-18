@@ -4,6 +4,8 @@
       <mapping pattern="Copia" type="PLAIN_TEXT" />
       <mapping pattern="chrt" type="PLAIN_TEXT" />
       <mapping pattern="Original" type="PLAIN_TEXT" />
+      <mapping pattern="destino" type="PLAIN_TEXT" />
+      <mapping pattern="origen" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
