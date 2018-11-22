@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="archivo" type="PLAIN_TEXT" />
+      <mapping pattern="Fechas de entrega" type="PLAIN_TEXT" />
       <mapping pattern="plagiazo" type="PLAIN_TEXT" />
       <mapping pattern="Copia" type="PLAIN_TEXT" />
       <mapping pattern="chrt" type="PLAIN_TEXT" />
