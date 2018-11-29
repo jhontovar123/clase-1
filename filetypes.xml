@@ -5,6 +5,7 @@
       <mapping pattern="Fechas de entrega" type="PLAIN_TEXT" />
       <mapping pattern="plagiazo" type="PLAIN_TEXT" />
       <mapping pattern="Copia" type="PLAIN_TEXT" />
+      <mapping pattern="Estrellas" type="PLAIN_TEXT" />
       <mapping pattern="chrt" type="PLAIN_TEXT" />
       <mapping pattern="Original" type="PLAIN_TEXT" />
       <mapping pattern="destino" type="PLAIN_TEXT" />
